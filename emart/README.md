@@ -1,6 +1,10 @@
-# emart
+# E-Commerce Shopping App using Flutter
 
-A new Flutter application.
+- A complete E-Commerce Shopping App Front-End.
+- You can implement your own backend using Firebase Realtime Database or Cloud Firestore.
+- Feel free to download and learn!
+
+Star the repo if you like :)
 
 ## Getting Started
 
